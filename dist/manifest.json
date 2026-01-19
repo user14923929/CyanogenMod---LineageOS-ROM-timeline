@@ -1,8 +1,0 @@
-{
-  "name": "ROM Age Tracker",
-  "short_name": "ROM Age",
-  "start_url": ".",
-  "display": "standalone",
-  "background_color": "#0f1220",
-  "theme_color": "#0f1220"
-}
